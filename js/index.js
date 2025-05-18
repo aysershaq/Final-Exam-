@@ -108,7 +108,7 @@ getHomeMeals()
 function displayMeals(arr){
 
 
-    searchContainer.html("")
+    
     cartona= ""
 
     for(let i = 0 ;i<arr.length ;i++){
